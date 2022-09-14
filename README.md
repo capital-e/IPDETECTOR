@@ -2,7 +2,7 @@
 Quickly find all used IP addresses in your SOHO.
 
 
-# INSTALLATION
+# INSTALLATION & USAGE
 git clone https://github.com/capital-e/IPDETECTOR.git
 
 cd IPDETECTOR
